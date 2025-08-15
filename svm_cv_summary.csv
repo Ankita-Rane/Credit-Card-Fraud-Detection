@@ -1,0 +1,2 @@
+model,Mean Precision (Fraud=1),Mean Recall (Fraud=1),Mean F1 (Fraud=1)
+SVM,0.5184,0.7194,0.6016

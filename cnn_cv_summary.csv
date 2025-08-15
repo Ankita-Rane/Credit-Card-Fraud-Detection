@@ -1,0 +1,2 @@
+model,Mean Precision (Fraud=1),Mean Recall (Fraud=1),Mean F1 (Fraud=1)
+CNN,0.0831,0.8557,0.1431
